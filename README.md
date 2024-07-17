@@ -70,3 +70,129 @@ Weekly Progress
   - Flattening the smart contract via Remix tool and compiling the flattened code for verification.
 
 *End of the week reflection: Successfully implemented and deployed smart contracts, demonstrating proficiency in blockchain development tools and techniques.*
+
+
+
+
+## Week 2 (27/05/2024 - 31/05/2024)
+
+### Monday (27/05/2024)
+- **10:00 – 11:30:** Working on FTM Testnet.
+  - Implementing on Lachesis and exploring the Proof of Stake model.
+- **11:30 – 12:30 & 13:00 – 14:30:** Deploying FTM Testnet.
+  - Deploying the smart contract using Remix on FTM Testnet.
+- **14:30 – 16:00:** Exploring Holesky Testnet.
+  - Used in Distributed Validator Technology (DVT) project and examining the compressed version of Genesis state.
+- **16:00 – 17:30:** Deploying on Holesky Testnet.
+  - Using Remix to deploy smart contracts on Holesky Testnet.
+
+*End of the day reflection: Gained hands-on experience with different testnets and smart contract deployment techniques.*
+
+### Tuesday (28/05/2024)
+- **10:30 – 11:30:** Introduction to HTTP.
+  - Understanding the TCP/IP based protocol, three-way handshake, and comparing HTTP 1.1 vs HTTP 2.0.
+- **11:30 – 12:30 & 13:30 – 14:30:** Domain Name Server (DNS).
+  - Learning about DNS resolver, authoritative DNS server vs recursive DNS resolver, and reviewing RFC documents.
+- **14:30 – 15:30:** Introduction to PostgreSQL.
+  - Studying concurrency, performance, and Write-ahead Logging (WAL).
+- **15:30 – 17:30:** Content Delivery Network (CDN).
+  - Improving latency issues, exploring federated CDNs and open caching, and understanding minification.
+
+*End of the day reflection: Enhanced understanding of essential internet protocols and database management systems.*
+
+### Wednesday (29/05/2024)
+- **10:30 – 11:30:** Representational State Transfer (REST).
+  - Using HTTP for data transfer, understanding statelessness, and comparing REST with JSON.
+- **11:30 – 12:30 & 13:00 – 14:00:** Token-Based Authentication.
+  - Exploring the advantages of JSON Web Token (JWT) and different types of authentication tokens.
+- **14:00 – 15:30:** Integration Testing.
+  - Understanding top-down, bottom-up, and sandwich approaches.
+- **15:30 – 17:30:** Functional Testing.
+  - Comparing functional with non-functional testing, discussing regression testing, and addressing its challenges.
+
+*End of the day reflection: Acquired practical insights into REST APIs, authentication mechanisms, and testing methodologies.*
+
+### Thursday (30/05/2024)
+- **10:30 – 12:00:** Object-Relational Mapping (ORM).
+  - Examining pros and cons, comparing with traditional data access techniques, and using SQLAlchemy.
+- **12:00 – 13:00 & 13:30 – 14:30:** N+1 Problem in Database.
+  - Identifying causes, fixes, and prevention strategies for N+1 query problems.
+- **14:30 – 16:00:** Monolithic Architecture.
+  - Assessing benefits and problems, and comparing with microservices architecture.
+- **16:00 – 17:30:** Serverless Architecture.
+  - Understanding serverless vs. PaaS, Knative framework for Kubernetes, and limitations of serverless architecture.
+
+*End of the day reflection: Improved knowledge on advanced database issues and modern software architecture paradigms.*
+
+### Friday (31/05/2024)
+- **10:30 – 12:30:** Introduction to GraphQL.
+  - Learning about queries, mutations, interfaces, and unions in GraphQL.
+- **12:30 – 13:30 & 14:30 – 15:30:** Apollo.
+  - Understanding GraphOS, cloud routing, and the use of Supergraph.
+- **15:30 – 17:30:** Docker.
+  - Exploring containerization, Docker in Docker, and performance penalties in Docker.
+- **17:30 – 18:30:** Firebase.
+  - Studying NoSQL database, comparing with MongoDB, and performance monitoring using Firebase.
+
+*End of the week reflection: Expanded expertise in modern web technologies and development tools.*
+
+## Week 3 (03/06/2024 - 07/06/2024)
+
+### Monday (03/06/2024)
+- **10:00 – 11:30:** Introduction to Prisma ORM.
+  - Exploring Prisma Client, Prisma Migrate, and Prisma Studio.
+- **11:30 – 12:30 & 13:00 – 14:30:** Working with Prisma Schema.
+  - Defining application models and setting up database connections via environment variables.
+- **14:30 – 16:00:** Installing Prisma Locally.
+  - Using Prisma Client to send queries to the database, retrieving user records, and including post relations.
+
+*End of the day reflection: Gained a solid foundation in using Prisma ORM for database management.*
+
+### Tuesday (04/06/2024)
+- **10:30 – 11:30:** Data Modelling in Prisma.
+  - Understanding data modeling on both database and application levels.
+- **11:30 – 12:30 & 13:30 – 14:30:** Relations in Prisma.
+  - Exploring one-to-one, one-to-many, many-to-many, and self-relations.
+- **14:30 – 15:30:** Prisma Client Queries.
+  - Implementing filtering, sorting, full-text search, and static methods using Prisma Client extensions.
+- **15:30 – 17:30:** Fields and Types.
+  - Working with composite types, null and undefined values, JSON fields, and scalar lists.
+
+*End of the day reflection: Enhanced proficiency in advanced Prisma features and query techniques.*
+
+### Wednesday (05/06/2024)
+- **10:30 – 11:30:** Introduction to NestJS.
+  - Learning core fundamentals, the request-response lifecycle, and providers in NestJS.
+- **11:30 – 12:30 & 13:00 – 14:00:** Modules and Controllers.
+  - Grouping services, creating FeatureModules, and understanding the entry point of applications.
+- **14:00 – 15:30:** Guards in NestJS.
+  - Implementing JWT token authentication, role-based authentication, and binding guards.
+- **15:30 – 17:30:** TypeORM.
+  - Understanding embedded entities, tree entities, and view entities.
+
+*End of the day reflection: Acquired knowledge in using NestJS and TypeORM for building scalable and secure applications.*
+
+### Thursday (06/06/2024)
+- **10:30 – 12:00:** Passport Library.
+  - Exploring built-in Passport guards, JWT functionality, and request-scoped strategies.
+- **12:00 – 13:00 & 13:30 – 14:30:** Introduction to Postman.
+  - Learning about headers, responses, and the sidebar in Postman.
+- **14:30 – 16:00:** Types of Authorization.
+  - Understanding bearer tokens, basic authentication, and authorization at collections.
+- **16:00 – 17:30:** Requests in Postman.
+  - Practicing GET, POST, PUT, and DELETE responses.
+
+*End of the day reflection: Gained hands-on experience in using Passport for authentication and Postman for API testing.*
+
+### Friday (07/06/2024)
+- **10:30 – 12:30:** Understanding the Company’s Backend Code.
+  - Reviewing code written in NestJS with PassportJS and PostgreSQL as the database.
+- **12:30 – 13:30 & 14:30 – 15:30:** Working on Authentication.
+  - Implementing Wallet Auth Guard for authorization.
+- **15:30 – 17:30:** Understanding Basics of TypeScript.
+  - Learning about type safety and comparing TypeScript with JavaScript.
+- **17:30 – 18:30:** Solving Backend Bugs.
+  - Addressing internal errors (CODE:500), identifying local authentication issues, and replacing with JWT Auth.
+
+*End of the week reflection: Improved backend development skills and gained experience in troubleshooting and debugging complex issues.*
+
