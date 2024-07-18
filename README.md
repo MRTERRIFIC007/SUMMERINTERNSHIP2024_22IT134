@@ -194,3 +194,69 @@ Weekly Progress
   - Addressing internal errors (CODE:500), identifying local authentication issues, and replacing with JWT Auth.
 
 *End of the week reflection: Improved backend development skills and gained experience in troubleshooting and debugging complex issues.*
+
+
+# Internship Daily Report
+
+## Week 4 (10/06/2024 - 14/06/2024)
+
+### Monday (10/06/2024)
+- **10:00 – 11:30:** Introduction to Vue.js
+  - Learning about Single-File Components, API Styles, and Handling User Input.
+- **11:30 – 12:30 & 13:00 – 14:30:** Reactivity Fundamentals in Vue.js
+  - Declaring Reactive State and understanding Deep Reactivity.
+- **14:30 – 16:00:** List Rendering in Vue.js
+  - Maintaining State with key and using Mutation Methods.
+- **16:00 – 17:30:** Computed Properties
+  - Exploring Computed Caching vs. Methods and Writable Computed properties.
+
+*End of the day reflection: Gained a solid foundation in Vue.js fundamentals and reactivity concepts.*
+
+### Tuesday (11/06/2024)
+- **10:30 – 11:30:** Conditional Rendering
+  - Using v-if and v-show directives, understanding the difference between them, and the difference between v-if and v-for.
+- **11:30 – 12:30 & 13:30 – 14:30:** Props and Events
+  - Learning about Prop Name Casing, Static vs. Dynamic Props, Declaring Emitted Events, and Events Validation.
+- **14:30 – 15:30:** Provide / Inject
+  - Understanding Prop Drilling, Injecting Default Values, and use cases for provide and inject.
+- **15:30 – 17:30:** Suspense
+  - Exploring Nested Suspense, Loading State, and combining with other components.
+
+*End of the day reflection: Enhanced knowledge of component communication and advanced Vue.js features.*
+
+### Wednesday (12/06/2024)
+- **10:30 – 11:30:** State Prevention
+  - Understanding RESTful Statelessness and Caching Mechanisms.
+- **11:30 – 12:30 & 13:00 – 14:00:** Command Query Responsibility Segregation (CQRS)
+  - Learning about the benefits of CQRS and Event Sourcing.
+- **14:00 – 15:30:** Authorization with Discord
+  - Working with Webhooks and Role-based authentication.
+- **15:30 – 17:30:** Auth Guards
+  - Implementing Wallet Guards and working with SkipAuthCheck.
+
+*End of the day reflection: Improved understanding of state management, CQRS, and authorization techniques.*
+
+### Thursday (13/06/2024)
+- **10:30 – 12:00:** Introduction to Next.js
+  - Learning about the full-stack React framework, Server component vs Client component, and Hydration.
+- **12:00 – 13:00 & 13:30 – 14:30:** Routing in Next.js
+  - Exploring File-based Routing, type-safe routing, and Nested Layouts.
+- **14:30 – 16:00:** Data Fetching in Next.js
+  - Understanding Server Actions, JS fetch with caching, and Edge Functions.
+- **16:00 – 17:30:** Rendering in Next.js
+  - Learning about Streaming, Island Architecture, and Composition Patterns.
+
+*End of the day reflection: Acquired knowledge on Next.js framework and its core functionalities.*
+
+### Friday (14/06/2024)
+- **10:30 – 12:30:** Next.js Optimization
+  - Exploring Image Optimization, API cache, and Lazy Loading.
+- **12:30 – 13:30 & 14:30 – 15:30:** App Directory in Next.js
+  - Understanding the difference between App Directory and Pages Directory, File Naming Conventions, and API routes.
+- **15:30 – 17:30:** TypeScript in Next.js
+  - Learning about typesafe configurations and comparing TypeScript with JavaScript.
+- **17:30 – 18:30:** Deploying in Next.js
+  - Deploying applications using Vercel and self-hosting with Coolify.
+
+*End of the week reflection: Enhanced skills in optimizing, structuring, and deploying Next.js applications.*
+
